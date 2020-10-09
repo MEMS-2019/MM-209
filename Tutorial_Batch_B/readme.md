@@ -1,1 +1,1 @@
-#This file contains the tutorial questions for Batch B.
+<h>This directory contains all the tutorials held for **Batch B** </h>
